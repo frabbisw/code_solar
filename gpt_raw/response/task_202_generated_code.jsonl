@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_training_bonus(self) -> bool:\n    return self.training_completion_rate >= 90.0\n```\n\nThis function will return True if the employee's training_completion_rate is 90.0 or higher, indicating they are eligible for the bonus, and False otherwise."}

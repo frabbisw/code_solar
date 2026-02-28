@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_court_reporter_license(self) -> bool:\n        if self.age >= 18 and self.gender in ['female', 'male'] and self.education in ['bachelor', 'master', 'doctor'] and self.stenography_training_completed == 'yes':\n            return True\n        else:\n            return False"}

@@ -1,0 +1,1 @@
+{"generated_code": "def suitable_for_police_officer(self) -> bool:\n        if (self.age >= 18) and (self.physical_fitness == PhysicalFitness.HIGH or self.physical_fitness == PhysicalFitness.VERY_HIGH):\n            return True\n        else:\n            return False"}

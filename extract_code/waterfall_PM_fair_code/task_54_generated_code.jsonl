@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_financial_scholarship(self) -> bool:\n        return (self.employment_status in EMPLOYMENT_STATUS_OPTIONS and\n                self.education in EDUCATION_OPTIONS and\n                self.GPA >= 3.5 and\n                self.financial_need in FINANCIAL_NEED_OPTIONS)"}

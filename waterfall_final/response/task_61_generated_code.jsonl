@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_transfer(self) -> bool:\n        MIN_AGE = 18\n        MIN_GPA = 3.0\n        MIN_CREDITS_COMPLETED = 30\n        \n        return self.age >= MIN_AGE and self.GPA >= MIN_GPA and self.credits_completed >= MIN_CREDITS_COMPLETED"}

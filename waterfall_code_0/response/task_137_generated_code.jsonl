@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_heavy_machinery_operator_license(self) -> bool:\n        if (self.age >= 18 and self.training_hours_completed >= 500):\n            return True\n        else:\n            return False"}

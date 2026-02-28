@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_maritime_captain_license(self) -> bool:\n        if 0 < self.age <= 65 and 0 < self.sea_service_years <= 40:\n            return True\n        else:\n            return False"}

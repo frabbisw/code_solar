@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_university_honors(self) -> bool:\n        MIN_GPA_FOR_HONORS = 3.5\n        LEADERSHIP_ROLES_REQUIRED = \"yes\"\n        if self.GPA >= MIN_GPA_FOR_HONORS and self.leadership_roles.lower() == LEADERSHIP_ROLES_REQUIRED:\n            return True\n        else:\n            return False"}

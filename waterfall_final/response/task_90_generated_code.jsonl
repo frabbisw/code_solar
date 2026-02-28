@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_research_grant(self) -> bool:\n        if self.age >= 18 and (3.5 <= self.GPA <= 4.0) and self.research_proposal_status == 'approved':\n            return True\n        else:\n            return False"}

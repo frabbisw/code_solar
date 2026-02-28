@@ -1,0 +1,1 @@
+{"generated_code": "def suitable_for_teacher(self) -> bool:\n        teacher_requirements = ['bachelor', 'master', 'doctor']\n        if self.education in teacher_requirements and self.communication_skills == 'excellent':\n            return True\n        else:\n            return False\n"}

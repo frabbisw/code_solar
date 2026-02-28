@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_physical_therapy(self) -> bool:\n        if self.mobility_status == 'limited' and (self.age > 60 or (self.age > 40 and self.age < 60 and self.gender != 'male')):\n            return True\n        else:\n            return False"}

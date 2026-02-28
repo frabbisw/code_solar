@@ -1,0 +1,1 @@
+{"generated_code": "def suitable_for_painting(self) -> bool:\n    return self.creativity_level == 'high'\n```\n\nThis function checks if the creativity level of the person is 'high' and returns True if it is, indicating that the person is suitable for painting."}

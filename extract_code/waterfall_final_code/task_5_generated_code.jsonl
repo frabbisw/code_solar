@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_healthcare_subsidy(self) -> bool:\n        return self.age in [28, 30, 31, 44, 45, 46, 59, 60, 61] and 1000 <= self.monthly_income <= 3000\n\n    def validate_input(self):\n        if self.monthly_income <= 0:\n            raise ValueError(\"Monthly income must be a positive integer\")\n\n    # Add more methods as needed\n"}

@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_community_service_award(self) -> bool:\n        years_of_service_eligible = self.years_of_service >= 2 and self.years_of_service <= 10\n        community_service_hours_eligible = self.community_service_hours >= 50 and self.community_service_hours <= 200\n        return years_of_service_eligible and community_service_hours_eligible"}

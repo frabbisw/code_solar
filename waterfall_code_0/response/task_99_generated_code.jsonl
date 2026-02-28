@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_undergraduate_scholarship(self) -> bool:\n        is_age_valid = self.age >= 0\n        is_GPA_valid = 0 <= self.GPA <= 4.0\n        is_education_valid = self.education in ['college', 'bachelor', 'master']\n\n        return is_age_valid and is_GPA_valid and is_education_valid"}

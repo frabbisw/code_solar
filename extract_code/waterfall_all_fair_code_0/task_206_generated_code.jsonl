@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_cholesterol_management_program(self) -> bool:\n        # Check if age is greater than 30 and cholesterol level is greater than 200.0\n        if self.age > 30 and self.cholesterol_level > 200.0:\n            return True\n        else:\n            return False"}

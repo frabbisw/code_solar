@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_customer_champion_award(self) -> bool:\n    if self.job_level == 4 and self.customer_feedback_score == 5.0:\n        return True\n    else:\n        return False\n```\n\nThis method will return True if the employee meets the specified conditions and is therefore eligible for the Customer Champion Award."}

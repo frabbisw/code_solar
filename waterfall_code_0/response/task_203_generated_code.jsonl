@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_weight_management_program(self) -> bool:\n        if 18 <= self.age <= 65 and 30.0 <= self.BMI <= 40.0 and self.gender in ['transgender', 'non-binary', 'male', 'female', 'gender neutral']:\n            return True\n        else:\n            return False"}

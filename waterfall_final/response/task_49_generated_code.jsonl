@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_transportation_subsidy(self) -> bool:\n        if self.age < 18 or self.distance_to_work > 50 or self.annual_income < 20000:\n            return False\n        elif 18 <= self.age <= 65 and self.distance_to_work <= 50 and self.annual_income >= 20000:\n            return True\n        else:\n            return False\n"}

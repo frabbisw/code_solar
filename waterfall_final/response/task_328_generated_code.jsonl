@@ -1,0 +1,1 @@
+{"generated_code": "def suitable_for_human_resources_manager(self) -> bool:\n        return (18 <= self.age <= 65) and (self.employment_status in ['employed', 'unemployed', 'retired', 'student']) and (self.education in ['college', 'bachelor', 'master', 'doctor']) and (self.major == 'human_resources') and (self.communication_skills in ['high', 'very_high'])"}

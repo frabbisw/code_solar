@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_department_transfer(self) -> bool:\n        if self.years_of_service >= 5:\n            return True\n        else:\n            return False"}

@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_court_reporter_license(self) -> bool:\n    if self.stenography_training_completed == \"yes\" and self.education in [\"high school\", \"college\", \"bachelor\", \"master\", \"doctor\"]:\n        return True\n    else:\n        return False\n```"}

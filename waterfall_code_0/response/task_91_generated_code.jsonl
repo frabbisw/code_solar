@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_university_ambassador(self) -> bool:\n        # Add specific conditions to determine eligibility\n        # Example:\n        if self.age > 18 and self.GPA >= 3.5 and self.leadership_experience == 'yes':\n            return True\n        else:\n            return False"}

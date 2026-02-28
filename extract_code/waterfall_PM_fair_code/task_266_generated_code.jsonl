@@ -1,0 +1,1 @@
+{"generated_code": "def suitable_for_golf(self) -> bool:\n        if self.age > 30 and self.focus_concentration == 'excellent' and self.employment_status in ['employed', 'retired']:\n            return True\n        else:\n            return False\n"}

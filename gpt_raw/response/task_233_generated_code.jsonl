@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_booster_vaccine(self) -> bool:\n        if self.vaccination_history == 'up_to_date' and self.age >= 18:\n            return True\n        else:\n            return False"}

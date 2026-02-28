@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_tree_service_license(self) -> bool:\n        return (self.age >= 18 and self.education in ['bachelor', 'master', 'doctor'] and self.certification_obtained == 'yes')"}

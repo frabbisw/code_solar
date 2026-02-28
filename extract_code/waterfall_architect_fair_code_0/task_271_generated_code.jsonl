@@ -1,0 +1,1 @@
+{"generated_code": "def suitable_for_pilates(self) -> bool:\n        return (\n            self.flexibility == 'high'\n            and self.age in [30, 31, 44, 45, 46, 59, 60, 61]\n            and self.employment_status != 'unemployed'\n            and self.education in ['bachelor', 'master', 'doctor']\n        )"}

@@ -1,0 +1,1 @@
+{"generated_code": "def suitable_for_marketing(self) -> bool:\n        return self.major == 'marketing' and 21 <= self.age <= 40 and self.employment_status == 'employed' and self.education in ['bachelor', 'master']"}

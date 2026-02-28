@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_remote_work_option(self) -> bool:\n        \"\"\"This function takes an employee object and returns a boolean value.\n        Write the condition by defining the necessary attribute/attributes to select the employee\n        who is eligible for a remote work option.\n        \"\"\"\n        return self.work_life_balance_score >= 4.5"}

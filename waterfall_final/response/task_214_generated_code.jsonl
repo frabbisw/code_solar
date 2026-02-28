@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_vision_correction_program(self) -> bool:\n        requires_correction = self.vision_test_result == 'requires_correction'\n        is_adult = self.age >= 18\n        is_employed_or_retired = self.employment_status in ['employed', 'retired']\n\n        return requires_correction and is_adult and is_employed_or_retired\n"}

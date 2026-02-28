@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_tattoo_artist_license(self) -> bool:\n        if self.age >= 18 and self.apprenticeship_completed == 'yes':\n            return True\n        else:\n            return False"}

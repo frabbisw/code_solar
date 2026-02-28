@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_vaccination_program(self) -> bool:\n        # Define the eligibility condition here based on the attributes\n        # to determine if the patient is eligible for a vaccination program\n        pass"}

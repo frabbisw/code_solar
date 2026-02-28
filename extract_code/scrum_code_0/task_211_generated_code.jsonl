@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_sleep_apnea_screening(self) -> bool:\n        # Write logic to determine if the patient is eligible for sleep apnea screening\n        pass"}

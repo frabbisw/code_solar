@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_certification_bonus(self) -> bool:\n    is_eligible: bool = False\n    if (self.employment_status == 'employed' and \n        self.education in ['bachelor', 'master', 'doctor'] and \n        self.job_level == 4 and \n        self.certifications_completed == 'yes'):\n        is_eligible = True\n    return is_eligible\n"}

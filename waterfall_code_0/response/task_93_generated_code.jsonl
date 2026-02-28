@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_honor_society(self) -> bool:\n        if (self.GPA >= 3.5 \n            and self.education in ['college', 'bachelor', 'master', 'doctor'] \n            and self.extracurricular_activities == 'yes'):\n            return True\n        else:\n            return False"}

@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_diversity_award(self) -> bool:\n        is_participating_in_diversity_initiatives = self.diversity_initiatives_participation == 'yes'\n        is_adult = self.age >= 18\n        is_experienced = self.job_level >= 2\n        \n        return is_participating_in_diversity_initiatives and is_adult and is_experienced\n"}

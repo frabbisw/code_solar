@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_cosmetology_license(self) -> bool:\n        if (self.age >= 18 and \n            self.employment_status == 'employed' and \n            self.education in ['high school', 'college', 'bachelor', 'master', 'doctor'] and \n            self.cosmetology_school_completed == 'yes'):\n            return True\n        else:\n            return False"}

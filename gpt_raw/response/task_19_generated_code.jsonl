@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_public_transport_assistance(self) -> bool:\n    # Criteria for eligibility for public transport assistance\n    # 1. Annual income less than or equal to 15000\n    # 2. Distance to work greater than 10\n\n    if self.annual_income <= 15000 and self.distance_to_work > 10:\n        return True\n    else:\n        return False\n"}

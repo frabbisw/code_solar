@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_stroke_rehabilitation(self) -> bool:\n        if self.age >= 18 and 'severe' not in self.medical_history and 'severe' not in self.severity_of_stroke:\n            return True\n        else:\n            return False"}

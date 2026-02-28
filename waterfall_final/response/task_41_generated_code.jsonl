@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_low_income_tax_relief(self) -> bool:\n    # Check if annual income is between 15000 and 30000\n    if 15000 <= self.annual_income <= 30000 and 2 <= self.household_size <= 5 and 0 <= self.age <= 120:\n        return True\n    else:\n        return False"}

@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_fall_prevention_program(self) -> bool:\n        if (self.age > 65 and self.fall_risk_assessment_score > 3.0) or (self.age < 65 and self.fall_risk_assessment_score > 5.0):\n            return True\n        else:\n            return False"}

@@ -1,0 +1,1 @@
+{"generated_code": "def suitable_for_quality_control_inspector(self) -> bool:\n        if (self.education in ['high school', 'college']) and (self.major in ['engineering', 'manufacturing']) and (self.attention_to_detail == 'high' or self.attention_to_detail == 'very_high'):\n            return True\n        else:\n            return False\n```"}

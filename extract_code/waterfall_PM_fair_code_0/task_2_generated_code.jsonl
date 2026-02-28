@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_housing_assistance(self) -> bool:\n        if (self.age in [28, 30, 31, 44, 45, 46, 59, 60, 61] and\n            500 <= self.monthly_rent <= 1500 and\n            12000 <= self.annual_income <= 30000):\n            return True\n        else:\n            return False"}

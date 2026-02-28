@@ -1,0 +1,1 @@
+{"generated_code": "def suitable_for_journalist(self) -> bool:\n        valid_majors = ['journalism', 'communications']\n        valid_communication_skills = ['good', 'excellent']\n\n        if (self.major in valid_majors) and (self.communication_skills in valid_communication_skills):\n            return True\n        else:\n            return False"}

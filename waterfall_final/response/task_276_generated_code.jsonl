@@ -1,0 +1,1 @@
+{"generated_code": "def suitable_for_pet_keeping(self) -> bool:\n        if (self.employment_status in ['employed', 'retired']) and (self.education in ['bachelor', 'master', 'doctor']) and (self.marital_status in ['single', 'married']) and (self.love_for_animals in ['high', 'very_high']):\n            return True\n        else:\n            return False"}

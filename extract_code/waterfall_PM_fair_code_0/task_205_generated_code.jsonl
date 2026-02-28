@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_heart_health_screening(self) -> bool:\n        # Add condition to determine eligibility for heart health screening\n        pass\n"}

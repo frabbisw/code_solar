@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_early_childhood_education(self) -> bool:\n        \"\"\"This function takes an EarlyChildhoodEducationApplicant object and returns a boolean value.\nWrite the condition by defining the necessary attribute/attributes to determine if the applicant\nis eligible for early childhood education programs.\n        \"\"\""}

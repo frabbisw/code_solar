@@ -1,0 +1,1 @@
+{"generated_code": "def is_eligible_for_vaccination_program(self) -> bool:\n        return True if (self.gender and self.race and\n                        self.employment_status and self.education and\n                        self.marital_status and self.religion and\n                        self.immunization_history) else False"}

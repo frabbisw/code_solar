@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_youth_job_training(self) -> bool:\n        if self.age <= 0:\n            return False\n        elif self.age < 16:\n            return False\n        elif self.education_level in ['high_school', 'diploma']:\n            return True\n        else:\n            return False"}

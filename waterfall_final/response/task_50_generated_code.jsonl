@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_early_childhood_education(self) -> bool:\n        return (\n            self.age < 5 and\n            self.employment_status != 'unemployed' and\n            self.education in ['bachelor', 'master', 'doctor'] and\n            self.household_income < 35000 and\n            self.number_of_children <= 2\n        )"}

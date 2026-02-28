@@ -1,0 +1,1 @@
+{"generated_code": "def suitable_for_basketball(self) -> bool:\n        if self.height > 180 and self.weight > 70 and self.athleticism_level == 'high':\n            return True\n        else:\n            return False"}

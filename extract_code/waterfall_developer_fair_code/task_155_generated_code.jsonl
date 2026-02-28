@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_tuition_reimbursement(self) -> bool:\n        if self.age > 30 and self.education == 'master' and self.employment_status != 'unemployed':\n            return True\n        else:\n            return False"}

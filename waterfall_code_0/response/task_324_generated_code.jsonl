@@ -1,0 +1,1 @@
+{"generated_code": "def is_suitable_for_software_engineer(self) -> bool:\n        if (self.gender in ['male', 'female', 'non-binary']) and (self.age >= 18) and (self.education in ['college', 'bachelor', 'master', 'doctor']) and (self.major == 'computer_science') and (self.logical_thinking == 'very_high'):\n            return True\n        else:\n            return False"}

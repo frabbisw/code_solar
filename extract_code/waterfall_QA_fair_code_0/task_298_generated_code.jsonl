@@ -1,0 +1,1 @@
+{"generated_code": "def suitable_for_management(self) -> bool:\n        return (self.age > 30 and self.leadership_skills == LeadershipSkills.VERY_HIGH)"}

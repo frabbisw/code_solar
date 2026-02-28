@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_study_abroad_program(self) -> bool:\n        if self.age >= 18 and self.GPA >= 3.0 and (self.language_proficiency == \"advanced\" or self.language_proficiency == \"intermediate\"):\n            return True\n        else:\n            return False\n"}

@@ -1,0 +1,1 @@
+{"generated_code": "def suitable_for_sculpting(self) -> bool:\n        return self.artistic_talent == 'high' and self.creativity == 'very_high'"}

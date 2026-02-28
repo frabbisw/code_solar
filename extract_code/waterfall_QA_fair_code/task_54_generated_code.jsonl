@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_financial_scholarship(self) -> bool:\n        if (self.age <= 25 and\n            self.GPA >= 3.0 and\n            self.employment_status == \"unemployed\" and\n            self.education in ['high school', 'college'] and\n            self.financial_need == \"high\"):\n            return True\n        else:\n            return False\n"}

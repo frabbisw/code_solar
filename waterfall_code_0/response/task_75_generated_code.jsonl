@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_teaching_assistant_position(self) -> bool:\n        return (\n            self.age >= 18 \n            and self.age <= 30 \n            and self.GPA >= 3.5 \n            and self.major == 'computer_science'\n            and self.gender in ['male', 'female']\n        )"}

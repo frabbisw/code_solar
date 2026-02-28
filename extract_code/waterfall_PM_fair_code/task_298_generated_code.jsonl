@@ -1,0 +1,1 @@
+{"generated_code": "def suitable_for_management(self) -> bool:\n        \"\"\"This function takes a person object and returns a boolean value.\nWrite the condition by defining the necessary attribute/attributes to determine if the person\nis suitable for a career in management.\"\"\"\n"}

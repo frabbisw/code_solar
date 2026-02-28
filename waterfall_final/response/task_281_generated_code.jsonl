@@ -1,0 +1,1 @@
+{"generated_code": "def suitable_for_cooking(self) -> bool:\n        has_high_love_for_cooking = self.love_for_cooking in ['high', 'very_high']\n        is_adult = self.age >= 18\n        is_employed = self.employment_status == 'employed'\n\n        if has_high_love_for_cooking and is_adult and is_employed:\n            return True\n        else:\n            return False"}

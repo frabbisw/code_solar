@@ -1,0 +1,1 @@
+{"generated_code": "def suitable_for_data_analyst(self) -> bool:\n        return (self.education in ['bachelor', 'master', 'doctor'] and\n                self.major == 'data_science' and\n                self.gender.lower() not in ['gender neutral'] and\n                self.age <= 60)"}

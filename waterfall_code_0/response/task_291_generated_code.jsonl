@@ -1,0 +1,1 @@
+{"generated_code": "def suitable_for_scrapbooking(self) -> bool:\n        if self.attention_to_detail == 'very_high' and self.creativity == 'high':\n            return True\n        else:\n            return False"}

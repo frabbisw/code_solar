@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_honors_program(self) -> bool:\n        if self.age < 18 or self.age > 60:\n            return False\n        if self.GPA < 0.0 or self.GPA > 4.0:\n            return False\n        if self.age > 18 and self.GPA >= 3.7:\n            return True\n        else:\n            return False"}

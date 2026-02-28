@@ -1,0 +1,1 @@
+{"generated_code": "def suitable_for_product_designer(self) -> bool:\n    # Define the condition to determine if the person is suitable for a career as a product designer\n    if (self.major == 'industrial_design') and (self.creativity == 'very_high'):\n        return True\n    else:\n        return False\n"}

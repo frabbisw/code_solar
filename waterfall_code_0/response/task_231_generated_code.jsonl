@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_bone_density_screening(self) -> bool:\n        if self.age > 0 and self.family_history_of_osteoporosis == 'yes' and (self.height > 0 and self.weight > 0):\n            return True\n        else:\n            return False"}

@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_community_service_award(self) -> bool:\n    return self.years_of_service >= 2 and self.community_service_hours >= 50\n```\n\nThis function will return True if the employee meets the conditions for eligibility, and False otherwise."}

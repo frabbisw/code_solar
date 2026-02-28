@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_athletic_scholarship(self) -> bool:\n        if (self.GPA >= 3.5 and self.sport == 'basketball' and self.age < 30) or (self.GPA >= 3.5 and self.sport == 'football' and self.age < 35) or (self.GPA >= 3.5 and self.sport == 'volleyball' and self.age < 40):\n            return True\n        else:\n            return False"}

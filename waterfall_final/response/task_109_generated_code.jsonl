@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_real_estate_license(self) -> bool:\n        return self.age >= 18 and self.employment_status == 'employed' and self.education_level in ['high_school', 'bachelor']"}

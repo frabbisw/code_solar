@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_transfer_credit(self) -> bool:\n        if self.credits_earned in [30, 60] and self.GPA >= 3.0 and self.age >= 18:\n            return True\n        else:\n            return False"}

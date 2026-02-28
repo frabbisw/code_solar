@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_liquor_license(self) -> bool:\n        return (self.age >= 21 and \n                self.employment_status in ['employed', 'retired'] and \n                self.business_location == 'urban')"}

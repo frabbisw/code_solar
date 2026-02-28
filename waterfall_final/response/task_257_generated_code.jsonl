@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_chronic_disease_prevention(self) -> bool:\n        return (self.age > 30 and self.education in ['bachelor', 'master', 'doctor']) or self.medical_history in ['hypertension', 'diabetes', 'heart disease', 'cancer'] or self.family_medical_history in ['hypertension', 'diabetes', 'heart disease', 'cancer']"}

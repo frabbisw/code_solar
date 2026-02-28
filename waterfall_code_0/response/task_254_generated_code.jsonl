@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_celiac_disease_screening(self) -> bool:\n        age_above_18 = self.age > 18\n        family_history_yes = self.family_history_of_celiac_disease == 'yes'\n        education_criteria = self.education in ['college', 'bachelor', 'master', 'doctor']\n\n        return age_above_18 and family_history_yes and education_criteria"}

@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_honors_program(self) -> bool:\n        return (\n            self.GPA >= 3.7 and\n            self.extracurricular_activities == 'yes'\n        )"}

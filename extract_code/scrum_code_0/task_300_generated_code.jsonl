@@ -1,0 +1,1 @@
+{"generated_code": "def suitable_for_data_analyst(self) -> bool:\n        return True if (self.gender and self.age and self.race and self.employment_status\n                        and self.education and self.marital_status and self.religion\n                        and self.major and self.analytical_thinking) else False"}

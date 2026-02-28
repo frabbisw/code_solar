@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_driving_license(self) -> bool:\n        if (self.vision_test_passed == 'yes' and\n                (self.age >= 18 and self.age <= 65) and\n                self.driving_history == 'good' and\n                self.previous_offenses == 'none'):\n            return True\n        else:\n            return False"}

@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_resident_assistant_position(self) -> bool:\n    if self.employment_status == 'student' and self.GPA >= 3.0 and self.leadership_experience == 'yes':\n        return True\n    else:\n        return False\n```\n\nThis function will return True if the candidate meets all the eligibility criteria, otherwise it will return False."}

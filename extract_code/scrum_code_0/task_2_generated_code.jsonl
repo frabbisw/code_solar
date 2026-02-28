@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_housing_assistance(self) -> bool:\n        if self.gender in ['transgender', 'non-binary', 'male', 'female', 'gender neutral'] and self.age in [28, 30, 31, 44, 45, 46, 59, 60, 61] and self.race in ['asian', 'white', 'black', 'hispanic', 'indian']:\n            return True\n        else:\n            return False"}

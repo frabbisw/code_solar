@@ -1,0 +1,1 @@
+{"generated_code": "def suitable_for_project_manager(self) -> bool:\n        if (self.leadership_skills == 'very_high' and\n            (self.education in ['bachelor', 'master', 'doctor']) and\n            (self.employment_status == 'employed' or self.employment_status == 'student')):\n            return True\n        else:\n            return False"}

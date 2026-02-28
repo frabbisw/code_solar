@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_pension_support(self) -> bool:\n        return (self.is_above_retirement_age() and self.has_enough_years_of_service()) or (self.is_above_optional_retirement_age() and self.has_enough_years_of_service())"}

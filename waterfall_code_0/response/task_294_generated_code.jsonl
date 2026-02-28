@@ -1,0 +1,1 @@
+{"generated_code": "def suitable_for_nurse(self) -> bool:\n        if self.major == 'nursing' and self.empathy == 'high':\n            return True\n        else:\n            return False"}

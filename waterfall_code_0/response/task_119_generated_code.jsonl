@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_nursing_license(self) -> bool:\n        if self.age >= 18 and self.nursing_degree == 'yes' and self.education in ['bachelor', 'master', 'doctor']:\n            return True\n        else:\n            return False"}

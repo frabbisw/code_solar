@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_healthcare_subsidy(self) -> bool:\n        return self.age > 18 and self.monthly_income < 3000 and self.employment_status == 'employed'"}

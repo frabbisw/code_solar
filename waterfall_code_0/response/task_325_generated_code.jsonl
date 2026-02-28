@@ -1,0 +1,1 @@
+{"generated_code": "def suitable_for_electrical_engineer(self) -> bool:\n        if self.major == 'electrical_engineering':\n            # Add more conditions here based on other attributes if needed\n            return True\n        else:\n            return False"}

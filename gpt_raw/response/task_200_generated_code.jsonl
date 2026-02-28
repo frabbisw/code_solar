@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_mentorship_award(self) -> bool:\n    if self.job_level == 5 and self.mentorship_hours >= 100:\n        return True\n    else:\n        return False\n```\n\nThis implementation ensures that an employee is eligible for the Mentorship Award if they meet the specified conditions."}

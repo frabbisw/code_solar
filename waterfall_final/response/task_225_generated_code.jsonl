@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_alcohol_reduction_program(self) -> bool:\n    age_limits = {'high': 18, 'moderate': 21}\n    return (self.age > age_limits[self.alcohol_consumption]) if self.alcohol_consumption in age_limits else False"}

@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_salary_increase(self) -> bool:\n        if self.performance_rating == PerformanceRating.FIVE.value and self.years_of_service > YearsOfService.EIGHT.value:\n            return True\n        else:\n            return False"}

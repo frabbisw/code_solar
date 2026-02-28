@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_bonus(self) -> bool:\n        if (28 <= self.age <= 60) and self.employment_status == 'employed' and self.education in ['bachelor', 'master', 'doctor'] and (3 <= self.years_of_service <= 10) and self.performance_rating >= 4.0:\n            return True\n        else:\n            return False"}

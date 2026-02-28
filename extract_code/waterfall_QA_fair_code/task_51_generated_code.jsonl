@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_scholarship(self) -> bool:\n        return self.GPA >= 3.5 and self.enrollment_status == 'full_time'"}

@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_youth_education_grant(self) -> bool:\n    return 18 <= self.age <= 25 and self.GPA > 3.5 and self.family_income < 25000 and self.employment_status == 'student'"}

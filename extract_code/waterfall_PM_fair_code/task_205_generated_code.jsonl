@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_heart_health_screening(self) -> bool:\n        if self.age > 30 and self.family_history_of_heart_disease == 'yes':\n            return True\n        else:\n            return False"}

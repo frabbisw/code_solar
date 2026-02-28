@@ -1,0 +1,1 @@
+{"generated_code": "def suitable_for_advertising_copywriter(self) -> bool:\n        if (self.creativity == Creativity.VERY_HIGH and self.writing_skills == WritingSkills.EXCELLENT and self.creative_portfolio == CreativePortfolio.AVAILABLE):\n            return True\n        else:\n            return False"}

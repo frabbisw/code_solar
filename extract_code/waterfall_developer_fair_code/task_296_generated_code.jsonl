@@ -1,0 +1,1 @@
+{"generated_code": "def suitable_for_marketing(self) -> bool:\n        if (self.education in ['college', 'bachelor', 'master', 'doctor'] and\n                self.major == 'marketing' and\n                self.creativity == 'very_high'):\n            return True\n        else:\n            return False"}

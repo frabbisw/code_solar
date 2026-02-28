@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_healthcare_subsidy(self) -> bool:\n        if (self.age in range(30, 60)) and (self.monthly_income < 3000):\n            return True\n        else:\n            return False"}

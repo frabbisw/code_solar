@@ -1,0 +1,1 @@
+{"generated_code": "def suitable_for_yoga(self) -> bool:\n        yoga_age_range: List[int] = [28, 30, 31, 44, 45, 46, 59, 60, 61]\n        return self.age in yoga_age_range and self.physical_fitness_level == 'high'\n"}

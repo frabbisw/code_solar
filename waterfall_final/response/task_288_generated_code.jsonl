@@ -1,0 +1,1 @@
+{"generated_code": "def suitable_for_board_games(self) -> bool:\n    if self.strategic_thinking in ['good', 'excellent'] and self.patience_level == 'high':\n        return True\n    else:\n        return False"}

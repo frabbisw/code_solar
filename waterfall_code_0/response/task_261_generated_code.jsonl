@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_hypertension_clinic(self) -> bool:\n        if (self.age > 0 and self.blood_pressure_control == 'controlled'):\n            return True\n        else:\n            return False"}

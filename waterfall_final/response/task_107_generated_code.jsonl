@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_professional_license(self) -> bool:\n        return self.age >= 18 and self.experience_years >= 2"}

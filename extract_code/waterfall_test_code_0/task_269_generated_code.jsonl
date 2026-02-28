@@ -1,0 +1,1 @@
+{"generated_code": "def suitable_for_basketball(self) -> bool:\n        # Write your code here to determine if the person is suitable for playing basketball\n        if self.age > 20 and self.gender in ['male', 'female']:\n            return True\n        else:\n            return False"}

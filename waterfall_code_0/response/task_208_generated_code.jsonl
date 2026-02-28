@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_fitness_program(self) -> bool:\n        return self.age > 18 and self.physical_activity_level == 'moderate' and self.bmi < 30"}

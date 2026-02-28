@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_honors_program(self) -> bool:\n        \"\"\"This function takes an HonorsProgramApplicant object and returns a boolean value.\n        Write the condition by defining the necessary attribute/attributes to select the student\n        who is eligible to join the honors program.\n        \"\"\""}

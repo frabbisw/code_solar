@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_fishing_license(self) -> bool:\n        \"\"\"This function takes a FishingLicenseApplicant object and returns a boolean value.\nWrite the condition by defining the necessary attribute/attributes to determine if the applicant\nis eligible for a fishing license.\n        \"\"\"\n        pass  # Remove this line when writing the code"}

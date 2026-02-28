@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_driving_license(self) -> bool:\n        \"\"\"This function takes a DrivingLicenseApplicant object and returns a boolean value.\nWrite the condition by defining the necessary attribute/attributes to determine if the applicant\nis eligible for a driving license.\"\"\"\n"}

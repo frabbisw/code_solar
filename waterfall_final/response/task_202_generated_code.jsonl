@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_training_bonus(self) -> bool:\n        age_condition = 18 <= self.age <= 65\n        job_level_condition = self.job_level in [2, 4]\n        training_completion_condition = 90.0 <= self.training_completion_rate <= 100.0\n        \n        return age_condition and job_level_condition and training_completion_condition"}

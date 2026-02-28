@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_vehicle_inspection_license(self) -> bool:\n        return self.age >= 18 and self.certification_completed == \"yes\" and self.employment_status == \"employed\""}

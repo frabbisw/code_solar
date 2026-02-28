@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_boating_license(self) -> bool:\n        if (self.boating_experience > 0 and\n            self.boating_regulations_knowledge and\n            not self.previous_violations_or_accidents):\n            return True\n        else:\n            return False"}

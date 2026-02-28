@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_taxi_driver_license(self) -> bool:\n    if self.age >= 21 and self.background_check_passed == 'yes':\n        return True\n    return False"}

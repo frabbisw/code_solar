@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_animal_control_officer_license(self) -> bool:\n        if (21 <= self.age <= 65) and (self.employment_status in ['employed', 'retired']) and (self.education in ['bachelor', 'master', 'doctor']) and (self.animal_handling_experience == 'yes'):\n            return True\n        else:\n            return False"}

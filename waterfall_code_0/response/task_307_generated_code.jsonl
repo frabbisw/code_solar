@@ -1,0 +1,1 @@
+{"generated_code": "def suitable_for_economist(self) -> bool:\n        valid_education = {'bachelor', 'master', 'doctor'}\n        valid_major = {'economics', 'business'}\n\n        if self.education in valid_education and self.major in valid_major:\n            return True\n        else:\n            return False"}

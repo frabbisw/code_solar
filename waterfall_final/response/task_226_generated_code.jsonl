@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_prediabetes_program(self) -> bool:\n    return (18 <= self.age <= 65) and (140.0 <= self.glucose_tolerance_test_result <= 199.0)"}

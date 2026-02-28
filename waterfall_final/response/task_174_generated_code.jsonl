@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_training_completion_bonus(self) -> bool:\n    return self.training_hours_completed >= 40"}

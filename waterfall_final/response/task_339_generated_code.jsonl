@@ -1,0 +1,1 @@
+{"generated_code": "def suitable_for_statistician(self) -> bool:\n        if self.age > 0 and self.mathematical_aptitude == 'high':\n            return True\n        else:\n            return False"}

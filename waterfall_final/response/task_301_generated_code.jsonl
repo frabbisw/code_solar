@@ -1,0 +1,1 @@
+{"generated_code": "def suitable_for_police_officer(self) -> bool:\n        if 20 < self.age < 40 and self.employment_status == 'employed' and self.education in ['bachelor', 'master', 'doctor'] and self.major == 'criminal_justice' and self.physical_fitness == 'very_high':\n            return True\n        else:\n            return False"}

@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_physical_activity_program(self) -> bool:\n        return self.is_age_between_18_and_65() and self.is_gender_valid() and self.is_race_valid() and self.is_employment_status_valid() and self.is_education_valid() and self.is_marital_status_valid() and self.is_religion_valid() and self.exercise_frequency == 'moderate'"}

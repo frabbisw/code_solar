@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_pilot_license(self) -> bool:\n        if all(getattr(self, attr) in values for attr, values in PilotEligibilityChecker.valid_attributes.items()):\n            if 28 <= self.age <= 61 and 250 <= self.flight_hours_completed <= 1500:\n                return True\n        return False"}

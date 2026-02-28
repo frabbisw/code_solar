@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_department_transfer(self) -> bool:\n        if (self.age in [28, 30, 31, 44, 45, 46, 59, 60, 61] and\n            self.years_of_service in [1, 5] and\n            self.department in ['sales', 'engineering']):\n            return True\n        else:\n            return False"}

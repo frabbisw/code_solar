@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_surveyor_license(self) -> bool:\n    if self.surveying_degree == 'yes':\n        return True\n    else:\n        return False\n```\n\nThis function checks if the applicant has a surveying degree and returns True if they do, indicating eligibility for a surveyor license."}

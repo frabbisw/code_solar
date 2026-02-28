@@ -1,0 +1,1 @@
+{"generated_code": "def suitable_for_model_building(self) -> bool:\n        if (self.age > 30 and self.education in ['bachelor', 'master', 'doctor'] and\n                self.employment_status == 'employed' and self.dexterity == 'excellent'):\n            return True\n        else:\n            return False\n"}

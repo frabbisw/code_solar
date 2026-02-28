@@ -1,0 +1,1 @@
+{"generated_code": "def suitable_for_criminal_investigator(self) -> bool:\n        if (self.age >= 0 and \n            self.education == \"criminal justice\" and \n            self.major == \"criminal_justice\" and \n            self.critical_thinking in ['high', 'very_high']):\n            return True\n        else:\n            return False"}

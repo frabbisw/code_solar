@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_diabetes_management(self) -> bool:\n    if self.age > 18 and self.hemoglobin_a1c_level >= 6.5:\n        return True\n    else:\n        return False\n```\n\nThis is a simple example and the actual criteria for eligibility may be more complex depending on medical guidelines and individual patient characteristics."}

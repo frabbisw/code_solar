@@ -1,0 +1,1 @@
+{"generated_code": "def suitable_for_yoga(self) -> bool:\n        if self.gender in ['female', 'non-binary'] and self.age >= 18 and self.physical_fitness_level == 'high' and self.hobbies == 'yoga' and self.interests == 'wellness' and self.wellness_goals == 'yoga':\n            return True\n        else:\n            return False"}

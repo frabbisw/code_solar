@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_food_assistance(self) -> bool:\n        if (self.age in [28, 30, 31, 44, 45, 46, 59, 60, 61] and\n                self.annual_income < 25000 and\n                self.household_size <= 5):\n            return True\n        else:\n            return False"}

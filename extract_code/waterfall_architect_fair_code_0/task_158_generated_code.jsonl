@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_salary_increase(self) -> bool:\n        if (self.age in [28, 30, 31, 44, 45, 46, 59, 60, 61]\n            and self.performance_rating in [4.0, 5.0]\n            and self.years_of_service in [3, 8]):\n            return True\n        else:\n            return False"}

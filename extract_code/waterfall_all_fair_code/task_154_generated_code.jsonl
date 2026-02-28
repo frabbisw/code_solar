@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_leadership_training(self) -> bool:\n        if self.job_level in [3, 5] and self.leadership_experience in ['yes', 'no'] and self.education in ['high school', 'college', 'bachelor', 'master', 'doctor'] and self.age in [30, 31, 44, 45, 46, 59, 60, 61]:\n            return True\n        else:\n            return False\n"}

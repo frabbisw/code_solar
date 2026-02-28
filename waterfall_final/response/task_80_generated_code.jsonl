@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_dean_scholarship(self) -> bool:\n        if self.GPA >= 3.7 and self.community_service == 'yes' and self.education in ['bachelor', 'master', 'doctor']:\n            return True\n        else:\n            return False"}

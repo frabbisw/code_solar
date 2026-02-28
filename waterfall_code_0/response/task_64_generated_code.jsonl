@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_graduate_fellowship(self) -> bool:\n        if (self.age >= 20 and self.age <= 30) and (self.GPA >= 3.7 and self.GPA <= 4.0):\n            return True\n        else:\n            return False"}

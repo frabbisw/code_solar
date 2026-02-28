@@ -1,0 +1,1 @@
+{"generated_code": "def suitable_for_painting(self) -> bool:\n        if self.age >= 40 and self.employment_status != 'unemployed' and self.creativity_level == 'high':\n            return True\n        else:\n            return False\n"}

@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_eye_examination(self) -> bool:\n        return all([self.check_gender(), self.check_race(), self.check_employment_status(), self.check_education(), self.check_marital_status(), self.check_religion(), self.check_eye_health_status()])"}

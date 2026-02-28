@@ -1,0 +1,1 @@
+{"generated_code": "def __post_init__(self):\n        if not (18 <= self.age <= 60 and 1200 <= self.SAT_score <= 1400 and 3.5 <= self.high_school_GPA <= 4.0 and self.education in ['college', 'bachelor', 'master', 'doctor'] and self.employment_status in ['employed', 'student']):\n            raise ValueError('Applicant is not eligible for admission')"}

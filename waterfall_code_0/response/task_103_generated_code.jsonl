@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_fishing_license(self) -> bool:\n        MIN_AGE_FOR_LICENSE = 16\n        VALID_RESIDENCY_STATUSES = ['resident', 'non_resident']\n\n        if self.age >= MIN_AGE_FOR_LICENSE and self.residency_status in VALID_RESIDENCY_STATUSES:\n            return True\n        else:\n            return False"}

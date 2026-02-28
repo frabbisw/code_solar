@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_promotion(self) -> bool:\n        if (self.age > 30 and\n            self.years_of_experience >= 5 and\n            self.job_level == 5 and\n            self.employment_status == 'employed' and\n            self.education in ['bachelor', 'master', 'doctor']):\n            return True\n        else:\n            return False"}

@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_promotion(self) -> bool:\n        return self._validate_gender() and self._validate_race() and self._validate_employment_status() and self._validate_education() and self._validate_marital_status() and self._validate_religion() and self._validate_years_of_experience() and self._validate_job_level()"}

@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_prenatal_care_program(self) -> bool:\n        return self.pregnancy_status == 'pregnant' and self.age > 0"}

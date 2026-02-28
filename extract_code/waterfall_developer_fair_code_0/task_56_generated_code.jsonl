@@ -1,0 +1,1 @@
+{"generated_code": "def is_eligible_for_thesis_submission(self) -> bool:\n        if (self.gender in [Gender.MALE, Gender.FEMALE] and self.age >= 30 and self.education in [Education.BACHELOR, Education.MASTER, Education.DOCTOR] and self.GPA >= 3.0):\n            return True\n        else:\n            return False"}

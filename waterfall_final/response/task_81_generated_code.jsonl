@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_undergraduate_research(self) -> bool:\n    return self.age >= 18 and self.GPA >= 3.4 and self.research_interest in ['biomedical', 'aerospace']"}

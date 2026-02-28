@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_teaching_assistant_position(self) -> bool:\n    if self.GPA >= 3.5 and self.education in ['college', 'bachelor', 'master', 'doctor'] and self.major in ['computer_science', 'mathematics']:\n        return True\n    else:\n        return False\n```"}

@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_education_grant(self) -> bool:\n        # Input validation for attributes\n        if self.age >= 18 and self.GPA >= 2.0 and self.family_income > 0:\n            return True\n        else:\n            return False"}

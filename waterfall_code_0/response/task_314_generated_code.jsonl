@@ -1,0 +1,1 @@
+{"generated_code": "def suitable_for_personal_trainer(self) -> bool:\n        return (self.major in ['kinesiology', 'physical_education']) and (self.physical_stamina in ['high', 'very_high'])"}

@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_fitness_program(self) -> bool:\n        # Write the condition by defining the necessary attribute/attributes to determine if the patient\n        # is eligible for a fitness program.\n        # Add your logic here\n        return True  # Placeholder return value, replace with actual logic."}

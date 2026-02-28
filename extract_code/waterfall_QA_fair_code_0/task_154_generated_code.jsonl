@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_leadership_training(self) -> bool:\n        # Check if age is greater than or equal to 30, job level is 3 or above, and leadership experience is 'yes'\n        return self.age >= 30 and self.job_level >= 3 and self.leadership_experience == 'yes'"}

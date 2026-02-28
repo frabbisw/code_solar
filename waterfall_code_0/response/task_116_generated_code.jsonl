@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_security_guard_license(self) -> bool:\n        if self.criminal_record == 'no' and self.security_guard_training_completed == 'yes' and self.written_exam_passed == 'yes':\n            return True\n        else:\n            return False\n"}

@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_training_program(self) -> bool:\n        if (30 <= self.age <= 45) and (self.years_of_service >= 5) and (self.marital_status == \"married\") and (self.education in [\"bachelor\", \"master\"]):\n            return True\n        else:\n            return False"}

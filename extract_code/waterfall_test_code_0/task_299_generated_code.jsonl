@@ -1,0 +1,1 @@
+{"generated_code": "def suitable_for_journalist(self) -> bool:\n        if self.age > 25 and self.education in ('bachelor', 'master') and self.major == 'journalism' and self.communication_skills in ('good', 'excellent'):\n            return True\n        else:\n            return False"}

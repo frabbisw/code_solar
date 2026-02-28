@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_hearing_aid_program(self) -> bool:\n        if self.hearing_test_result == 'requires_aid' and self.age > 18 and self.age < 65:\n            return True\n        else:\n            return False"}

@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_international_admission(self) -> bool:\n        \"\"\"This function takes an InternationalApplicant object and returns a boolean value.\nWrite the condition by defining the necessary attribute/attributes to select the applicant\nwho is eligible for international student admission.\n        \"\"\""}

@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_temporary_assistance(self) -> bool:\n        if self.age >= 18 and self.dependents_count >= 1:\n            return True\n        else:\n            return False"}

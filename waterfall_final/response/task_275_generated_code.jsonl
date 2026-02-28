@@ -1,0 +1,1 @@
+{"generated_code": "def suitable_for_playing_guitar(self) -> bool:\n        if self.age > 10 and self.musical_ear == 'excellent':\n            return True\n        else:\n            return False\n"}

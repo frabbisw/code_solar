@@ -1,0 +1,1 @@
+{"generated_code": "def suitable_for_hunting(self) -> bool:\n        return self.age >= 18 and (self.gender in ['male', 'female']) and (self.outdoor_activity_preference in ['high', 'very_high'])"}

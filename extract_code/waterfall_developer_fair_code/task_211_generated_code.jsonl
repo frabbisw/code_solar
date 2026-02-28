@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_sleep_apnea_screening(self) -> bool:\n        if 30 <= self.age <= 60 and 2.0 <= self.sleep_quality_score < 4.0:\n            return True\n        else:\n            return False"}

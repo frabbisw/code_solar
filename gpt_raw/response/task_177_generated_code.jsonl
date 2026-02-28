@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_attendance_award(self) -> bool:\n    return self.attendance_record == 'excellent'\n```"}

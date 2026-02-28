@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_veteran_benefits(self) -> bool:\n        if (self.age >= 18 and \n            self.years_of_service >= 2 and \n            self.service_disability_rating > 0 and \n            self.employment_status == \"employed\"):\n            return True\n        else:\n            return False"}

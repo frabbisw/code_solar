@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_certification_bonus(self) -> bool:\n        # Checking eligibility for certification bonus\n        if self.certifications_completed == 'yes' and self.job_level == 4 and 30 <= self.age <= 60:\n            return True\n        else:\n            return False"}

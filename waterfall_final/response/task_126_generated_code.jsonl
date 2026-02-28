@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_private_investigator_license(self) -> bool:\n        # Define the eligibility criteria based on the input attributes\n        return self.age >= 21 and self.background_check_passed == 'yes' and self.employment_status != 'unemployed'"}

@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_business_license(self) -> bool:\n        return self.age >= 18 and self.business_plan_submitted.lower() == 'yes'"}

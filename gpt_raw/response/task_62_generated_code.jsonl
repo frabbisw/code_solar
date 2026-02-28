@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_merit_scholarship(self) -> bool:\n    if (self.GPA >= 3.8) and (self.education in ['college', 'bachelor', 'master', 'doctor']) and (self.extracurricular_activities == 'yes') and (18 <= self.age <= 25) and (self.employment_status in ['unemployed', 'student']):\n        return True\n    else:\n        return False\n```"}

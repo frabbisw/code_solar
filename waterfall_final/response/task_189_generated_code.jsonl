@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_project_completion_bonus(self) -> bool:\n        return self.years_of_experience >= 5 and self.project_completion_rate >= 90.0"}

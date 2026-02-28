@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_pilot_license(self) -> bool:\n        for attribute, valid_inputs in self.VALID_INPUTS.items():\n            if getattr(self, attribute) not in valid_inputs:\n                return False\n        return True"}

@@ -1,0 +1,1 @@
+{"generated_code": "def suitable_for_knitting(self) -> bool:\n        return self.creativity == 'high' and self.patience_level == 'very_high'"}

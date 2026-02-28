@@ -1,0 +1,1 @@
+{"generated_code": "def suitable_for_fishing(self) -> bool:\n        if self.physical_fitness_level == 'high' and self.experience_with_fishing in ['intermediate', 'advanced']:\n            return True\n        else:\n            return False"}

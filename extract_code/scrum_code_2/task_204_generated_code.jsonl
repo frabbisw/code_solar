@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_smoking_cessation_program(self) -> bool:\n        \"\"\"This function takes a patient object and returns a boolean value.\nWrite the condition by defining the necessary attribute/attributes to determine if the patient\nis eligible for a smoking cessation program.\"\"\"\n        # Write the code for eligibility check here\n        pass"}

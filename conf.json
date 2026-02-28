@@ -1,0 +1,9 @@
+{
+  "llm_api": "openai",
+  "openai_key": [
+    "openai_key"
+  ],
+  "openai_model": "gpt-3.5-turbo-1106",
+  "anthropic_key": ["anthropic_key"],
+  "anthropic_model": "claude-3-haiku-20240307"
+}

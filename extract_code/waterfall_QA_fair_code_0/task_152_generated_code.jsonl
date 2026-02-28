@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_promotion(self) -> bool:\n        pass  # Write the condition by defining the necessary attribute/attributes to select the employee who is eligible for promotion."}

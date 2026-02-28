@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_diabetes_screening(self) -> bool:\n        return self.family_history and self.weight > 70 and self.lifestyle == 'sedentary'"}

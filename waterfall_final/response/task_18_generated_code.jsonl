@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_disaster_relief(self) -> bool:\n        return self.damage_assessment >= 5000 and self.annual_income <= 30000"}

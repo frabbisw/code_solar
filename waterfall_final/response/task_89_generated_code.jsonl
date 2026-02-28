@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_college_transfer(self) -> bool:\n        return self.credits_completed >= 30 and self.credits_completed <= 60 and self.GPA >= 3.0 and self.GPA <= 4.0"}

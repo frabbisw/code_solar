@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_family_support(self) -> bool:\n        if self.age > 18 and self.annual_income < 40000:\n            return True\n        return False"}

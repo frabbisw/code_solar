@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_graduation(self) -> bool:\n        if (\n            18 <= self.age <= 25\n            and 2.0 <= self.GPA <= 4.0\n            and 120 <= self.credits_completed <= 150\n        ):\n            return True\n        else:\n            return False"}

@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_marriage_license(self) -> bool:\n        if (self.age >= 18 and self.marital_status in ['single', 'widowed', 'divorced', 'legally separated']) and (self.residency_status == 'resident'):\n            return True\n        else:\n            return False"}

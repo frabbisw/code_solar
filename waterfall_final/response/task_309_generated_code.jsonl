@@ -1,0 +1,1 @@
+{"generated_code": "def suitable_for_mechanical_engineer(self) -> bool:\n        if self.major == 'mechanical_engineering' and (self.problem_solving_skills == 'high' or self.problem_solving_skills == 'very_high'):\n            return True\n        else:\n            return False"}

@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_eye_examination(self) -> bool:\n        if self.check_gender() and self.check_race() and self.check_employment_status() and self.check_education() and self.check_marital_status() and self.check_religion() and self.check_eye_health_status():\n            return True\n        else:\n            return False"}

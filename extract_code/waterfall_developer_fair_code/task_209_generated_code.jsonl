@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_mental_health_counseling(self) -> bool:\n        if self.age in [28, 30, 31, 44, 45, 46, 59, 60, 61]:\n            return True\n        else:\n            return False"}

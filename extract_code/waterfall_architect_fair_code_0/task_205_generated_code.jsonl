@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_heart_health_screening(self) -> bool:\n        if (self.age > 30 and self.race != Race.BLACK and self.smoking_status == 'no' and self.bmi < 25):\n            return True\n        else:\n            return False"}

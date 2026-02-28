@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_university_ambassador(self) -> bool:\n    if self.employment_status == 'student' and 3.4 <= self.GPA <= 4.0 and self.leadership_experience == 'yes':\n        return True\n    else:\n        return False\n```\n\nThis function will return True if the applicant meets all the specified criteria and False otherwise."}

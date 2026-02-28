@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_pilot_license(self) -> bool:\n        return (self.age >= 28 and self.age <= 60) and (self.flight_hours_completed >= 250 and self.flight_hours_completed <= 1500)"}

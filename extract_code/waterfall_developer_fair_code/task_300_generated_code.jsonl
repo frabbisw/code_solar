@@ -1,0 +1,1 @@
+{"generated_code": "def suitable_for_data_analyst(self) -> bool:\n        return self.education in ['bachelor', 'master', 'doctor'] and self.major == 'statistics' and self.analytical_thinking == 'excellent'\n"}

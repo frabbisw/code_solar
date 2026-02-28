@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_project_management_role(self) -> bool:\n        return True  # Placeholder condition for eligibility for project management role"}

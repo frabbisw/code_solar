@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_genetic_testing(self) -> bool:\n        return self.age > 18 and self.genetic_disorder_risk == 'high'"}

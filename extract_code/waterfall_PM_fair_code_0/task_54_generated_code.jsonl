@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_financial_scholarship(self) -> bool:\n        if (self.employment_status in ['unemployed', 'student'] and\n            self.education in ['college', 'bachelor', 'master', 'doctor'] and\n            self.GPA >= 3.5 and\n            self.financial_need in ['high', 'medium']):\n            return True\n        else:\n            return False"}

@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_technical_award(self) -> bool:\n        # Eligibility condition for technical excellence award\n        return self.years_of_experience >= 5 and self.technical_certifications == 'yes'"}

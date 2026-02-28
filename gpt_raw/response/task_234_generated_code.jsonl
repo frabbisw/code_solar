@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_diabetes_screening(self) -> bool:\n    if self.age > 40 and self.blood_glucose_level >= 100.0:\n        return True\n    else:\n        return False\n```"}

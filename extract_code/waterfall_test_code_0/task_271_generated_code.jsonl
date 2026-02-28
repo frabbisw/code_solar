@@ -1,0 +1,1 @@
+{"generated_code": "def suitable_for_pilates(self) -> bool:\n        if self.age > 18 and self.flexibility == 'high':\n            return True\n        else:\n            return False\n\ndef validate_input(options: List[str], value: str) -> bool:\n    if value in options:\n        return True\n    else:\n        return False\n"}

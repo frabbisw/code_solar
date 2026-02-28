@@ -1,0 +1,1 @@
+{"generated_code": "def suitable_for_dancing(self) -> bool:\n        return self.__is_gender_valid() and self.__is_age_valid() and self.__is_race_valid() and self.__is_employment_status_valid() and self.__is_education_valid() and self.__is_marital_status_valid() and self.__is_religion_valid() and self.__is_rhythm_sense_valid()"}

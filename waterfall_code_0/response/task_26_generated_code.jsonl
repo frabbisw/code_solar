@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_public_health_support(self) -> bool:\n        if self.age > 18 and self.employment_status.lower() != 'unemployed' and self.annual_income < 25000:\n            return True\n        else:\n            return False"}

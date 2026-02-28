@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_smoking_cessation_program(self) -> bool:\n        if self.age > 18 and self.smoking_status == SmokingStatus.CURRENT_SMOKER and self.employment_status != EmploymentStatus.UNEMPLOYED:\n            return True\n        else:\n            return False"}

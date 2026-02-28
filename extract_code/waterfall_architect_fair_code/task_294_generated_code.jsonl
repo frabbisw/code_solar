@@ -1,0 +1,1 @@
+{"generated_code": "def suitable_for_nurse(self) -> bool:\n        if self.age < 30 and self.education in ['bachelor', 'master', 'doctor'] and self.major == 'nursing':\n            return True\n        else:\n            return False"}

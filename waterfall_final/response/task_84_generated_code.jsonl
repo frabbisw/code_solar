@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_campus_leadership(self) -> bool:\n        return self.age >= 18 and self.education in ['college', 'bachelor', 'master', 'doctor'] and self.GPA >= 3.0 and self.leadership_experience == 'yes'"}

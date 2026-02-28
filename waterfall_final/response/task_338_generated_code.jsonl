@@ -1,0 +1,1 @@
+{"generated_code": "def suitable_for_video_game_designer(self) -> bool:\n    if self.major == 'game_design' and (self.creativity == 'high' or self.creativity == 'very_high'):\n        return True\n    else:\n        return False"}

@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_stress_management_program(self) -> bool:\n        if self.age <= 0:\n            return False\n        calculated_stress_level = self.calculate_stress_level()\n        return 7.0 <= calculated_stress_level <= 10.0"}

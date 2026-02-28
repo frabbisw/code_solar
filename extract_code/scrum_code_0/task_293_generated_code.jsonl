@@ -1,0 +1,1 @@
+{"generated_code": "def suitable_for_engineer(self) -> bool:\n        if self.major in ['engineering', 'computer_science'] and self.problem_solving_skills in ['high', 'very_high'] and self.education in ['bachelor', 'master', 'doctor'] and self.age >= 0 and self.employment_status in ['employed', 'student']:\n            return True\n        else:\n            return False"}

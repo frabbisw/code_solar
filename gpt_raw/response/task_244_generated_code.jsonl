@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_thyroid_treatment(self) -> bool:\n        if self.thyroid_function_test_result == 'hypothyroidism':\n            return True\n        else:\n            return False\n```"}

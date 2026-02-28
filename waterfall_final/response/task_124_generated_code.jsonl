@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_firearm_license(self) -> bool:\n        return self.age > 18 and self.background_check_passed == 'yes' and self.mental_health_history == 'stable' and self.criminal_record == 'no' and self.firearm_safety_training == 'completed'"}

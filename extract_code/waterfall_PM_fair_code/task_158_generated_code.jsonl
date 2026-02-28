@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_salary_increase(self) -> bool:\n        # Write the condition by defining the necessary attribute/attributes to select the employee who is eligible for a salary increase.\n        pass"}

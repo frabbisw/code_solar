@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_disability_benefits(self) -> bool:\n        if self.age < 0 or self.disability_percentage < 40 or self.disability_percentage > 100 or self.annual_income < 10000 or self.annual_income > 20000:\n            return False\n        return True\n"}

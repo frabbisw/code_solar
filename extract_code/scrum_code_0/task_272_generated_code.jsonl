@@ -1,0 +1,1 @@
+{"generated_code": "def suitable_for_hiking(self) -> bool:\n        if self.age > 0 and self.gender in ['male', 'female']:\n            if self.love_for_nature in ['high', 'very_high']:\n                return True\n            else:\n                return False\n        else:\n            return False"}

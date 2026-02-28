@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_tuition_reimbursement(self)-> bool:\n        \"\"\"This function takes an employee object and returns a boolean value.\nWrite the condition by defining the necessary attribute/attributes to select the employee\nwho is eligible for tuition reimbursement.\n        \"\"\"\n"}

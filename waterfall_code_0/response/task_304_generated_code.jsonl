@@ -1,0 +1,1 @@
+{"generated_code": "def suitable_for_biologist(self) -> bool:\n        if self.major == 'biology' and self.scientific_aptitude == 'very_high':\n            return True\n        else:\n            return False"}

@@ -1,0 +1,1 @@
+{"generated_code": "def suitable_for_hiking(self) -> bool:\n        \"\"\"This function takes a person object and returns a boolean value.\n        Write the condition by defining the necessary attribute/attributes to determine if the person\n        is suitable for hiking.\n        \"\"\"\n        return self.age in [28, 30, 31, 44, 45, 46] and self.love_for_nature == 'high'"}

@@ -1,0 +1,1 @@
+{"generated_code": "def suitable_for_pilates(self) -> bool:\n        # Write condition to assess if the person is suitable for practicing Pilates\n        pass\n        # Note: Don't forget to write and test the additional functions for specific attributes as per the Architect and Tester advices."}

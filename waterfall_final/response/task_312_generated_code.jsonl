@@ -1,0 +1,1 @@
+{"generated_code": "def suitable_for_judge(self) -> bool:\n    is_age_suitable = 25 <= self.age <= 70\n    is_education_suitable = self.education in ['bachelor', 'master', 'doctor']\n    is_ethical_judgment_high = self.ethical_judgment == 'very_high'\n\n    return is_age_suitable and is_education_suitable and is_ethical_judgment_high\n"}

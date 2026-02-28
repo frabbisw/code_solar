@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_energy_assistance(self) -> bool:\n        if (18 <= self.age <= 100) and (0 <= self.annual_income <= 100000) and (1 <= self.household_size <= 10):\n            return self.housing_status in ['rent', 'own', 'other']\n        else:\n            return False\n"}

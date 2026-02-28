@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_fitness_program(self) -> bool:\n        return bool(self.eligibility)"}

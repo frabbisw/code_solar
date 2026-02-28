@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_stock_options(self) -> bool:\n        if self.job_level in [4, 6] and self.performance_rating in [4.5, 5.0] and self.years_of_service > 3 and self.company_stock_ownership > 0.05:\n            return True\n        else:\n            return False"}

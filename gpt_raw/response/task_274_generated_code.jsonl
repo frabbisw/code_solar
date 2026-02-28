@@ -1,0 +1,1 @@
+{"generated_code": "def suitable_for_chess(self) -> bool:\n        if self.age >= 6 and self.education in ['high school', 'college', 'bachelor', 'master', 'doctor']:\n            return True\n        else:\n            return False\n```"}

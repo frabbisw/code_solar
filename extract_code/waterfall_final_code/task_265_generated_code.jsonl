@@ -1,0 +1,1 @@
+{"generated_code": "def suitable_for_fishing(self) -> bool:\n        if 18 <= self.age <= 60 and self.employment_status != 'unemployed' and self.marital_status != 'legally separated' and self.patience_level == 'high':\n            return True\n        else:\n            return False"}

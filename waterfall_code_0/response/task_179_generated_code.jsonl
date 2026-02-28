@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_cross_functional_team(self) -> bool:\n        if self.job_level >= 3 and self.cross_functional_experience == 'yes':\n            return True\n        else:\n            return False"}

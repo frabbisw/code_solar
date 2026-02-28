@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_annual_merit_increase(self) -> bool:\n        if self.years_of_service >= 2 and self.performance_rating >= 4.0:\n            return True\n        else:\n            return False"}

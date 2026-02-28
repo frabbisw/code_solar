@@ -1,0 +1,1 @@
+{"generated_code": "def suitable_for_painting(self) -> bool:\n    if self.gender in ['male', 'female'] and self.age >= 18 and self.creativity_level == 'high':\n        return True\n    else:\n        return False"}

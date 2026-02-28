@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_dermatology_consultation(self) -> bool:\n    return self.skin_health_status == 'needs_consultation'"}

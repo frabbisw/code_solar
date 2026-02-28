@@ -1,0 +1,1 @@
+{"generated_code": "def suitable_for_management(self) -> bool:\n        # Write the condition for determining management suitability\n        # Example: Assuming suitability for management if age is over 30 and leadership_skills is 'very_high'\n        return self.age > 30 and self.leadership_skills == 'very_high'  # Original code"}

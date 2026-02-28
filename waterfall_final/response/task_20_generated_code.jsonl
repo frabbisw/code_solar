@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_elderly_care_support(self) -> bool:\n        if self.age >= 65 and self.care_requirement_level >= 3:\n            return True\n        elif self.age >= 75 and self.care_requirement_level >= 2:\n            return True\n        else:\n            return False"}

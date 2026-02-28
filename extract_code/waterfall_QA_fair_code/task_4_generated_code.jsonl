@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_unemployment_benefits(self) -> bool:\n        if (self.employment_status == 'unemployed') and (self.duration_of_unemployment >= 6) and (self.previous_salary < 50000) and (self.household_size <= 4) and (self.dependents < 3):\n            return True\n        else:\n            return False"}

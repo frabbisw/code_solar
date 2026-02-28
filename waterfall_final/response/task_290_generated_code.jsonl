@@ -1,0 +1,1 @@
+{"generated_code": "def suitable_for_computer_programming(self) -> bool:\n        return self.education in ['bachelor', 'master', 'doctor'] and self.logical_thinking == 'excellent' and self.persistence == 'very_high'"}

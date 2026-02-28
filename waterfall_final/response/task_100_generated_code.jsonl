@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_community_scholarship(self) -> bool:\n        age_within_range = 18 <= self.age <= 100\n        GPA_within_range = 3.4 <= self.GPA <= 4.0\n        community_involvement_yes = self.community_involvement == 'yes'\n\n        return age_within_range and GPA_within_range and community_involvement_yes\n"}

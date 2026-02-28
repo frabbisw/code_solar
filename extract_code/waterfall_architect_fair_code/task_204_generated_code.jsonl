@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_smoking_cessation_program(self) -> bool:\n        # Write the condition to determine if the patient is eligible for a smoking cessation program\n        if self.age in [28, 30, 31, 44, 45, 46, 59, 60, 61] and self.smoking_status == 'current_smoker':\n            return True\n        else:\n            return False"}

@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_pilot_boat_license(self) -> bool:\n        return 18 <= self.age <= 65 and 500 <= self.nautical_miles_completed <= 2000"}

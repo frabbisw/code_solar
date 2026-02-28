@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_international_admission(self) -> bool:\n        if (self.age < 18 or self.age > 60 or\n            self.TOEFL_score < 90 or self.TOEFL_score > 120 or\n            self.undergraduate_GPA < 3.0 or self.undergraduate_GPA > 4.0):\n            return False\n\n        return True"}

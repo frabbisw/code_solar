@@ -1,0 +1,1 @@
+{"generated_code": "def suitable_for_golf(self) -> bool:\n        age_condition = self.age >= 18\n        concentration_condition = self.focus_concentration == 'excellent'\n        return age_condition and concentration_condition"}

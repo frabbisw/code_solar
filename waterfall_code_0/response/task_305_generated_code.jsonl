@@ -1,0 +1,1 @@
+{"generated_code": "def suitable_for_fashion_designer(self) -> bool:\n        return self.artistic_talent in ['high', 'very_high'] and self.major == 'fashion_design'"}

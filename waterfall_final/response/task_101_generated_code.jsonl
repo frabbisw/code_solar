@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_academic_mentor_position(self) -> bool:\n        if not (0.0 <= self.GPA <= 4.0) or self.age <= 0:\n            return False\n        if self.academic_advisor_recommendation == 'yes' and self.GPA >= 3.5:\n            return True\n        else:\n            return False"}

@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_youth_mentorship(self) -> bool:\n        return True if all([\n            self.gender in Gender,\n            self.race in Race,\n            self.employment_status in EmploymentStatus,\n            self.education in Education,\n            self.marital_status in MaritalStatus,\n            self.religion in Religion\n        ]) else False"}

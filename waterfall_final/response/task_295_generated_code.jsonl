@@ -1,0 +1,1 @@
+{"generated_code": "def suitable_for_accountant(self) -> bool:\n        if self.major.lower() == 'accounting' and self.attention_to_detail.lower() == 'high':\n            return True\n        else:\n            return False"}

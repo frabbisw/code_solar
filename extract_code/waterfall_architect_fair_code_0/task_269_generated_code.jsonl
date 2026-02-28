@@ -1,0 +1,1 @@
+{"generated_code": "def suitable_for_basketball(self) -> bool:\n        return self.age >= 18 and self.gender in [Gender.MALE, Gender.FEMALE] and self.teamwork_preference == 'high'"}

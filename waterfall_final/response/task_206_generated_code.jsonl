@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_cholesterol_management_program(self) -> bool:\n        input_validator = InputValidator()\n        if input_validator.is_valid_input(self):\n            return True\n        return False"}

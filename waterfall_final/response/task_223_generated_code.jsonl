@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_bariatric_surgery(self) -> bool:\n        return 18 <= self.age <= 65 and 35.0 <= self.BMI <= 50.0"}

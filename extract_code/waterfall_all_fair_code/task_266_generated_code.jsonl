@@ -1,0 +1,1 @@
+{"generated_code": "def suitable_for_golf(self) -> bool:\n        suitable_ages = [28, 30, 31, 44, 45, 46, 59, 60, 61]\n        if self.age in suitable_ages:\n            return True\n        else:\n            return False"}

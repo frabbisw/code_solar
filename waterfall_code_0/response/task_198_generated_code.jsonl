@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_performance_improvement_plan(self) -> bool:\n        if self.job_level == 1 and self.performance_improvement == 'needed':\n            return True\n        else:\n            return False"}

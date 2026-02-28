@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_mental_health_counseling(self) -> bool:\n        if self.mental_health_info.history == 'yes' and (self.mental_health_info.severity == 'severe' or self.treatment_info.previous_treatments == 'yes' or self.medication_info.current_medications == 'yes'):\n            return True\n        else:\n            return False"}

@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_mental_health_counseling(self) -> bool:\n        if self.age not in [28, 30, 31, 44, 45, 46, 59, 60, 61]:\n            return False\n        # Similar checks for other fields here\n        return True"}

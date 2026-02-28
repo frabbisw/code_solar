@@ -1,0 +1,1 @@
+{"generated_code": "def suitable_for_illustrator(self) -> bool:\n        major_map = {'fine_arts': True, 'graphic_design': True}\n        talent_map = {'high': True, 'very_high': True}\n\n        if (self.major in major_map and self.artistic_talent in talent_map):\n            return True\n        else:\n            return False"}

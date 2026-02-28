@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_community_impact_award(self) -> bool:\n        \"\"\"This function takes an employee object and returns a boolean value.\n        Write the condition by defining the necessary attribute/attributes to select the employee\n        who is eligible for the Community Impact Award.\n        \"\"\"\n        return 3 <= self.years_of_service <= 7"}

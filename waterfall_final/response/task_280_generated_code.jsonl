@@ -1,0 +1,1 @@
+{"generated_code": "def suitable_for_pottery(self) -> bool:\n        if (self.age >= 18 and self.employment_status in ['employed', 'retired']) or (self.age >= 21 and self.employment_status == 'student' and self.education in ['bachelor', 'master', 'doctor']):\n            return True\n        else:\n            return False"}

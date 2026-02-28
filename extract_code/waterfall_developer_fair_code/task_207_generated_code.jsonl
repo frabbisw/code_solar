@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_hypertension_management_program(self) -> bool:\n        return 28 <= self.age <= 61 and 140.0 <= self.blood_pressure_level <= 180.0\n"}

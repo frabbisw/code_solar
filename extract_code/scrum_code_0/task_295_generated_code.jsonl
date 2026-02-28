@@ -1,0 +1,1 @@
+{"generated_code": "def suitable_for_accountant(self) -> bool:\n        conditions = {\n            \"major\": \"accounting\",\n            \"attention_to_detail\": \"very_high\"\n        }\n        for attribute, value in conditions.items():\n            if getattr(self, attribute).lower() != value:\n                return False\n        return True"}

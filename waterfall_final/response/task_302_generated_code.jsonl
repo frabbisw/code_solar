@@ -1,0 +1,1 @@
+{"generated_code": "def suitable_for_architect(self) -> bool:\n        if (20 < self.age < 70) and (self.major == 'architecture' or self.major == 'urban_planning'):\n            return True\n        else:\n            return False"}

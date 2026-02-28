@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_motorcycle_license(self) -> bool:\n        if self.age >= 18 and self.riding_course_completed == 'yes':\n            return True\n        else:\n            return False\n#Additional conditions can be added based on specific requirements for motorcycle license eligibility."}

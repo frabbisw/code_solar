@@ -1,0 +1,1 @@
+{"generated_code": "def suitable_for_journalist(self) -> bool:\n        return self.gender in [Gender.FEMALE, Gender.NON_BINARY] and self.age >= 30 and self.education in [Education.BACHELOR, Education.MASTER] and self.major == Major.JOURNALISM and self.communication_skills == CommunicationSkills.EXCELLENT\n"}

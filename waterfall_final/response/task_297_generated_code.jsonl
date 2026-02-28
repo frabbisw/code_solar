@@ -1,0 +1,1 @@
+{"generated_code": "def suitable_for_software_developer(self) -> bool:\n        if (self.technical_aptitude == 'excellent' and \n            self.programming_skills == 'advanced' and \n            self.problem_solving_ability == 'high' and \n            self.communication_skills == 'excellent'):\n            return True\n        else:\n            return False"}

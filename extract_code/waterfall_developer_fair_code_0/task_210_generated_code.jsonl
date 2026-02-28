@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_diabetes_management_program(self) -> bool:\n        # Write the condition by defining the necessary attribute/attributes to determine if the patient\n        # is eligible for a diabetes management program.\n        return True  # Placeholder value, replace with actual condition"}

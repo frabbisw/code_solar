@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_marriage_license(self) -> bool:\n        if (self.age >= 18 and self.gender != 'non-binary') or (self.age >= 21 and self.gender == 'non-binary'):\n            if self.marital_status not in ['married', 'legally separated']:\n                return True\n        return False"}
